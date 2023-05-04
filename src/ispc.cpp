@@ -2295,6 +2295,7 @@ Globals::Globals() {
     debugIR = -1;
     disableWarnings = false;
     warningsAsErrors = false;
+    wrapSignedInt = false;
     quiet = false;
     forceColoredOutput = false;
     disableLineWrap = false;
